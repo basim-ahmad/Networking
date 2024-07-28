@@ -42,7 +42,7 @@ This repository contains the files related to the networking project assigned by
 
 ## Usage
 
-1. Open the `project_specification.pkt` file using Cisco Packet Tracer to view and interact with the network design.
+1. Open the `project.pkt` file using Cisco Packet Tracer to view and interact with the network design.
 2. Refer to the assignment brief for detailed information on the project requirements and deliverables.
 
 ## License
