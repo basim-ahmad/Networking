@@ -7,7 +7,7 @@ This repository contains the files related to the networking project assigned by
 ## Repository Structure
 
 - `project.pkt`: Packet Tracer file containing the network design and implementation.
-- `networking.doc`: The assignment brief for detailed information on the project requirements and deliverables
+- `networking.docx`: The assignment brief for detailed information on the project requirements and deliverables
 - `README.md`: This file, providing an overview and instructions for the project.
 - `LICENSE`: The license file for this project.
 
